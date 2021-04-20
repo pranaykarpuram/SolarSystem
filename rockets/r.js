@@ -31,7 +31,7 @@ class Rockets{
             this.m1.position(width/2-100,height/2);
             this.m1.style('color','red');
             this.m1.style('font-family','fantasy');
-            this.m1.style('font-size','80px');
+            this.m1.style('font-size','30px');
             }
             else{
                 this.back.hide();
